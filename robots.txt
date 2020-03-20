@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aechohhoup.tinekebanda.com/sitemap.xml
